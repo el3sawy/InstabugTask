@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F9530C0C-FF5B-43D5-AC81-A9575DF1D18A"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A7234AAD-1A4D-4D4A-AB13-092E3CA96E85"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InstabugNetworkClient/Modles/NetworkBuilder.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "convertDataToString(data:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9C5E27FA-F601-444D-A93A-F6A9CCBEC19B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InstabugNetworkClientTests/LocalStorage/Mocks/CoreDataStorageMock.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "init()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "80EA9930-7039-43D5-BA81-B5EE2E35E945"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InstabugNetworkClient/CoreDataStorage/CoreDataStorage.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "82"
+            endingLineNumber = "82"
+            landmarkName = "fetch(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "80EA9930-7039-43D5-BA81-B5EE2E35E945 - 15c3e6becee23dc2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in InstabugNetworkClient.CoreDataStorage.fetch(completion: (Swift.Result&lt;Swift.Array&lt;InstabugNetworkClient.NetworkEntity&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "InstabugNetworkClient"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nego/Desktop/Interviews/insta/InstabugInterview-2022/InstabugNetworkClient/CoreDataStorage/CoreDataStorage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "439">
+               </Location>
+               <Location
+                  uuid = "80EA9930-7039-43D5-BA81-B5EE2E35E945 - 615bc2608e4ba7d2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "InstabugNetworkClient.CoreDataStorage.fetch(completion: (Swift.Result&lt;Swift.Array&lt;InstabugNetworkClient.NetworkEntity&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "InstabugNetworkClient"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nego/Desktop/Interviews/insta/InstabugInterview-2022/InstabugNetworkClient/CoreDataStorage/CoreDataStorage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "108">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
